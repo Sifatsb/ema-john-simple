@@ -1,0 +1,33 @@
+.header{
+    text-align: center;
+}
+
+.header img{
+    height: 80px;
+
+}
+
+.header nav{
+    background-color: blueviolet;
+    line-height: 40px;
+    font-size: 20px;
+    
+}
+
+nav a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 5px;
+    transition: 0.5s;
+}
+
+nav a:hover{
+    background-color: bisque;
+    color: black;
+}
+
+#home{
+    background-color: orange;
+    color: black;
+}
