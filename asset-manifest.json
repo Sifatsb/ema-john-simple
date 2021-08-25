@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ema-john-simple/static/css/main.3b55dc89.chunk.css",
+    "main.js": "/ema-john-simple/static/js/main.8ff8914c.chunk.js",
+    "main.js.map": "/ema-john-simple/static/js/main.8ff8914c.chunk.js.map",
+    "runtime-main.js": "/ema-john-simple/static/js/runtime-main.50c83c23.js",
+    "runtime-main.js.map": "/ema-john-simple/static/js/runtime-main.50c83c23.js.map",
+    "static/js/2.e0cf215f.chunk.js": "/ema-john-simple/static/js/2.e0cf215f.chunk.js",
+    "static/js/2.e0cf215f.chunk.js.map": "/ema-john-simple/static/js/2.e0cf215f.chunk.js.map",
+    "static/js/3.5e45469a.chunk.js": "/ema-john-simple/static/js/3.5e45469a.chunk.js",
+    "static/js/3.5e45469a.chunk.js.map": "/ema-john-simple/static/js/3.5e45469a.chunk.js.map",
+    "index.html": "/ema-john-simple/index.html",
+    "static/css/main.3b55dc89.chunk.css.map": "/ema-john-simple/static/css/main.3b55dc89.chunk.css.map",
+    "static/js/2.e0cf215f.chunk.js.LICENSE.txt": "/ema-john-simple/static/js/2.e0cf215f.chunk.js.LICENSE.txt",
+    "static/media/giphy.d4e09ba3.gif": "/ema-john-simple/static/media/giphy.d4e09ba3.gif",
+    "static/media/logo.0dd9a510.png": "/ema-john-simple/static/media/logo.0dd9a510.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50c83c23.js",
+    "static/js/2.e0cf215f.chunk.js",
+    "static/css/main.3b55dc89.chunk.css",
+    "static/js/main.8ff8914c.chunk.js"
+  ]
+}
